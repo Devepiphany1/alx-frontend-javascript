@@ -13,4 +13,4 @@ export function taskFirst() {
   
     return combination;
   }
-  console.log('0-constants.js')
+  
