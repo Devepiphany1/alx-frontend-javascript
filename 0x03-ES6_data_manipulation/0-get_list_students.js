@@ -5,5 +5,4 @@ function getListStudents() {
       { id: 5, firstName: 'Serena', location: 'San Francisco' },
     ];
   }
-  const students = getListStudents();
-console.log(students);
+  
